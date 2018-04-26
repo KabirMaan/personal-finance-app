@@ -5,7 +5,7 @@ export default [
     id: "1",
     description: "gum",
     note: "",
-    amount: 190,
+    amount: 200,
     createdAt: 0
   },
   {
@@ -21,7 +21,7 @@ export default [
     id: "3",
     description: "credit card",
     note: "",
-    amount: 900,
+    amount: 400,
     createdAt: moment(0)
       .add(4, "days")
       .valueOf()
