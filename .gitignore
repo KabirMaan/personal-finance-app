@@ -2,3 +2,6 @@ node_modules/
 .vscode/
 yarn-error.log
 public/dist/
+src/playground/
+.env.test
+.env.development
