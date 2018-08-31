@@ -21,7 +21,7 @@ npm start
 
 Login with a Google Account.
 
-<img src="https://github.com/KabirMaan/personal-finance-app/blob/master/readme-images/image-1.jpg" width="1100" title="Dashboard">
+<img src="https://github.com/KabirMaan/personal-finance-app/blob/master/readme-images/image-1.jpg" width="300" title="Dashboard">
 
 Add an expense by clicking the Add Expense button.
 
